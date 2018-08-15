@@ -1,0 +1,164 @@
+header {
+  position: relative;
+  height: .8rem;
+  width: 100%;
+  text-align: center;
+  line-height: .8rem;
+}
+header .left {
+  float: left;
+  padding-left: .11rem;
+}
+header .right {
+  position: absolute;
+  top: .05rem;
+  right: .2rem;
+}
+header .right img {
+  display: inline-block;
+  width: .28rem;
+  height: .28rem;
+}
+.swiper-container {
+  width: 100%;
+  height: 100%;
+}
+.swiper-container .swiper-wrapper {
+  margin: 0;
+  padding-left: 0;
+}
+.swiper-container ul {
+  list-style: none;
+}
+.swiper-container ul .swiper-slide img {
+  height: 100%;
+  width: 100%;
+}
+.holiday {
+  margin-top: .20rem ;
+}
+.holiday ul {
+  width: 100%;
+}
+.holiday ul li {
+  float: left;
+  margin-left: .02rem;
+  width: 33%;
+}
+.holiday ul li img {
+  width: 100%;
+}
+.one {
+  margin: .16rem 0;
+}
+.one ul li {
+  float: left;
+  width: 25%;
+  border: 1px solid #ccc;
+}
+.one ul li img {
+  width: 100%;
+}
+.two ul li {
+  width: 50%;
+  float: left;
+  border: 1px solid #ccc;
+}
+.two ul li:first-of-type {
+  width: 50%;
+}
+.two ul li img {
+  width: 100%;
+}
+.three {
+  margin-top: .20rem ;
+  border-bottom: 2px solid #ccc;
+}
+.three h5 {
+  padding-left: .4rem;
+  display: block;
+  font-size: .16rem;
+  height: .4rem;
+  line-height: .4rem;
+}
+.three ul li {
+  border-bottom: 2px solid #ccc;
+  width: 100%;
+}
+.three ul li img {
+  width: 100%;
+}
+.five {
+  line-height: .30rem;
+  margin-top: .20rem;
+  border-bottom: 2px solid #ccc;
+  position: relative;
+}
+.five h5 {
+  height: .45rem;
+  font-size: .15px;
+  color: #D3079E;
+}
+.five h5 .five-l {
+  padding-left: 1.36rem;
+  border-bottom: 1px solid #D3079E;
+}
+.five h5 .five-r {
+  float: right;
+  border-bottom: 1px solid #D3079E;
+  padding-right: 1.36rem;
+}
+.five img {
+  width: 100%;
+}
+.five span {
+  font-size: .16rem;
+  height: .30rem;
+}
+.five p {
+  font-size: .18rem;
+  height: .30rem;
+}
+.six {
+  line-height: .30rem;
+  border-bottom: 2px solid #ccc;
+  margin-top: .20rem;
+}
+.six img {
+  width: 100%;
+}
+.six span {
+  font-size: .16rem;
+  height: .30rem;
+}
+.six p {
+  font-size: .18rem;
+  height: .30rem;
+}
+.seven {
+  border-bottom: 1px solid #ccc;
+  background-color: #FFFFFF;
+  margin: .16rem 0;
+  text-align: center;
+  font-size: .16rem;
+  height: .31rem;
+}
+.seven a {
+  line-height: .31rem;
+}
+.eight {
+  background-color: #D3079E;
+  height: .33rem;
+  font-size: .16rem;
+  line-height: .33rem;
+  color: #FFFFFF;
+}
+.eight a {
+  color: #FFFFFF;
+  float: left;
+  margin: 0 .2rem .1rem;
+}
+.eight p {
+  float: right;
+  margin-right: .1rem;
+}
